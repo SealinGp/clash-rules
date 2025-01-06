@@ -1,0 +1,4 @@
+payload:
+  # shopify
+  - DOMAIN-SUFFIX,sonus.ai
+  - DOMAIN-SUFFIX,anthropic.com
