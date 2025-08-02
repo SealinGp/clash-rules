@@ -1,0 +1,29 @@
+payload:
+  #ahrefs
+  - DOMAIN-SUFFIX,wmxpro.com
+  # > ai
+  - DOMAIN-SUFFIX,openai.com
+  - DOMAIN-SUFFIX,chatgpt.com
+  - DOMAIN-SUFFIX,anthropic.com
+  - DOMAIN-SUFFIX,claude.ai
+  # > klaviyo
+  #- DOMAIN-SUFFIX,klaviyo.com  
+  - DOMAIN-SUFFIX,tiktok.com  
+  # shopify
+  #- DOMAIN-SUFFIX,shopifyapps.com
+  #- DOMAIN-SUFFIX,shopify.com
+  #- DOMAIN-SUFFIX,myshopify.com
+  #- DOMAIN-SUFFIX,shopifysvc.com
+  #- DOMAIN-SUFFIX,shopifycloud.com  
+  - DOMAIN,accounts.google.com
+  # behance
+  #- DOMAIN-SUFFIX,behance.net
+  #- DOMAIN-SUFFIX,behance.com
+  - DOMAIN-SUFFIX,spotify.com
+  # amazon
+  - DOMAIN,images-na.ssl-images-amazon.com
+  - DOMAIN,grok.com
+  # america government
+  #- DOMAIN-SUFFIX,uspto.gov
+  - DOMAIN-SUFFIX,behance.com
+  - DOMAIN-SUFFIX,behance.net

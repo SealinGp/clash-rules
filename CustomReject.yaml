@@ -1,0 +1,7 @@
+payload:  
+  - DOMAIN-SUFFIX,adobe.io
+  - DOMAIN,desktop.parallels.com
+  # > adobe
+  - DOMAIN-SUFFIX,adobe.io,REJECT
+  #- DOMAIN-SUFFIX,adobe.com,REJECT
+  - DOMAIN-SUFFIX,adobestats.io,REJECT

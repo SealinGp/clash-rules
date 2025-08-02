@@ -1,0 +1,22 @@
+payload:
+  # > amazon
+  - DOMAIN-SUFFIX,waimaoxia.net
+  - DOMAIN-SUFFIX,amazon.com
+  - DOMAIN,images-cn.ssl-images-amazon.com
+  - DOMAIN-SUFFIX,controlplaneapp.com
+  - DOMAIN-SUFFIX,amazonaws.com
+  - DOMAIN-SUFFIX,amazon.dev
+  #- DOMAIN-SUFFIX,shopify.com
+  # > synology
+  - DOMAIN-SUFFIX,synology.cn
+  - DOMAIN-SUFFIX,synology.com  
+  - DOMAIN,hope-ui.netlify.app
+  - DOMAIN,cdn.cookielaw.org
+  - DOMAIN,d36jcksde1wxzq.cloudfront.net
+  - DOMAIN,pigment.kobalte.dev
+  # > adobe
+  - DOMAIN,photo.adobe.io
+  - DOMAIN,lcs-cops.adobe.io
+  # > bwh ip
+  - IP-CIDR,199.180.115.0/24
+  - DOMAIN-SUFFIX,binance.com
