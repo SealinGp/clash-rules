@@ -6,7 +6,7 @@ payload:
   - DOMAIN-SUFFIX,chatgpt.com
   - DOMAIN-SUFFIX,anthropic.com
   - DOMAIN-SUFFIX,claude.ai
-  - DOMAIN,gemini.google.com,no-resolve
+  - DOMAIN-SUFFIX,google.com,no-resolve
   # > klaviyo
   #- DOMAIN-SUFFIX,klaviyo.com  
   - DOMAIN-SUFFIX,tiktok.com  
