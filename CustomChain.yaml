@@ -8,6 +8,7 @@ payload:
   - DOMAIN-SUFFIX,claude.ai
   - DOMAIN-SUFFIX,claude.com
   - DOMAIN-SUFFIX,google.com,no-resolve
+  - DOMAIN-SUFFIX,youtube.com,no-resolve
   - DOMAIN-SUFFIX,googleapis.com,no-resolve
   - DOMAIN,accounts.google.com,no-resolve
   # > klaviyo
