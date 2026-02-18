@@ -8,6 +8,8 @@ payload:
   - DOMAIN-SUFFIX,claude.ai
   - DOMAIN-SUFFIX,claude.com
   - DOMAIN-SUFFIX,google.com,no-resolve
+  - DOMAIN-SUFFIX,googleapis.com,no-resolve
+  - DOMAIN,accounts.google.com,no-resolve
   # > klaviyo
   #- DOMAIN-SUFFIX,klaviyo.com  
   - DOMAIN-SUFFIX,tiktok.com  
@@ -17,7 +19,6 @@ payload:
   #- DOMAIN-SUFFIX,myshopify.com
   #- DOMAIN-SUFFIX,shopifysvc.com
   #- DOMAIN-SUFFIX,shopifycloud.com  
-  - DOMAIN,accounts.google.com
   # behance
   #- DOMAIN-SUFFIX,behance.net
   #- DOMAIN-SUFFIX,behance.com
