@@ -1,6 +1,7 @@
 payload:
   #ahrefs
   - DOMAIN-SUFFIX,wmxpro.com
+  - DOMAIN-SUFFIX,cctv23.cc  
   # > ai
   - DOMAIN-SUFFIX,openai.com
   - DOMAIN-SUFFIX,chatgpt.com
